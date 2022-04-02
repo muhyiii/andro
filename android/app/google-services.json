@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007114624164",
+    "project_id": "login-sosmed-686ea",
+    "storage_bucket": "login-sosmed-686ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007114624164:android:7623bb3d8ef6400769da31",
+        "android_client_info": {
+          "package_name": "com.example.login_sosmed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007114624164-umb6dn0n0tp19bo9q16bphu22eb50br0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_sosmed",
+            "certificate_hash": "0ec39fb42060680273ad42c391b61fe2fde02419"
+          }
+        },
+        {
+          "client_id": "1007114624164-n4n50kh1gg7i5v0m6dhtr5hvmscsfjg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_wnuNFFQwfnct9ylQJ43RxUUzhRQvAWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007114624164-n4n50kh1gg7i5v0m6dhtr5hvmscsfjg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
